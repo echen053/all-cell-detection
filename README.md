@@ -1,2 +1,16 @@
 # all-cell-detection
-ML models for acute lymphoblastic leukemia cell detection
+We experimented ML models for acute lymphoblastic leukemia (ALL) cell detection
+
+## Running environment
+All Jupyter notebooks were originally executed in the Google Colab environment.
+
+## Data sources
+ALL cell data used is from [ALL-IDB](https://homes.di.unimi.it/scotti/all/)
+
+## CNN classification
+
+We use a custom CNN model for ALL classification.
+
+## YOLO models
+
+Three different YOLO models (v5, v6, and v7) were tried to compare performance.
