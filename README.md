@@ -1,5 +1,6 @@
 # all-cell-detection
 We experimented ML models for acute lymphoblastic leukemia (ALL) cell detection
+https://ieeexplore.ieee.org/document/9995131
 
 ## Running environment
 All Jupyter notebooks were originally executed in the Google Colab environment.
